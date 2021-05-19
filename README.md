@@ -1,3 +1,5 @@
+Link to gameplay video: https://youtu.be/yrFtCiy3KZY
+
 This is demo version of the Pirate Regattas game - for passing GMD1 course. 
 This demo's functionalities are very limited in comparison the wanted final version which will include:
 - wind direction
